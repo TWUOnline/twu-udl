@@ -14,7 +14,8 @@ Presenters:
     - A little
     - A lot
     - None
-3. Do you agree or disagree with the following quote?
+3. Do you agree or disagree with the following quote?  
+
 > “A mind is a fire to be kindled, not a vessel to be filled.  If a child (student) can’t learn the way we teach, maybe we should teach the way they can learn”. ~ Ignacio ‘Nacho’ Estrada
 
 ## Why should we care about UDL?
@@ -62,7 +63,7 @@ UDL was founded on that effort.
 
 Continued growth: Rising to Equity Initiative  
 
-![CAST Overview](assets/cast.png "One page overview of CAST. There is a Venn diagram of three overlapping circles. The top circle reads 'Design and Development'. The bottom left circle reads 'Applied research'. The bottom right circle reads 'Professional learning'. Text follows on the page.")
+![CAST Overview](assets/cast.png "One page overview of CAST. There is a Venn diagram of three overlapping circles. The top circle reads 'Design and Development'. The bottom left circle reads 'Applied research'. The bottom right circle reads 'Professional learning'. The intersection where all three circles overlap reads 'UDL'. Text follows on the page.")
 
 ```{block, type='reflect'}
 ## Image Contents
@@ -92,7 +93,43 @@ Building on an award winning history, CAST co-designs transformative solutions, 
 #### Building Knowledge, Skills, and Community {-}
 CAST offers professional learning convenings, technical assistance, practical resources, and online platforms that support UDL implementation.
 
-Website: [cast.org](https://cast.org)
-Professional Learning Opportunities: [castpl.org](https://castpl.org/)
-Books and Media: 
+Website: [cast.org](https://cast.org)  
+Professional Learning Opportunities: [castpl.org](https://castpl.org/)  
+Books and Media: [castpublishing.org](https://castpublishing.org/)  
+Email: [cast@cast.org](mailto:cast@cast.org)  
+Phone: 781-245-2212  
+200 Harvard Mill Square, Suite 210  
+Wakefield, MA 01880
+
 ```
+
+## Paradigm Shift
+
+UDL is a shift in how we ***think*** about students, curriculum and instruction. Instead of attempting to fix the ***student***, we fix ***curriculum and instruction.***
+
+> Consider the needs of the broadest possible range of users from the beginning. ~Architect, Ron Mace
+
+Consider the following images:
+
+![Ramp built onto the side of a building](assets/add-on.png "The image shows a complicated ramp that has been built onto the side of a building")![Ramp designed into a building](assets/spiral.png "The image shows a spiral accessibility ramp designed as part of a building from the beginning.")
+
+## A Path for Everyone
+
+![Cartoon Panel](assets/ramp-comic.png "A comic that shows a snowy staircase and a ramp beside them, also covered with snow. There are several children at the bottom of the ramp/stairs. One child, who is in a wheelchair, asks a man with a shovel "Could you please shovel the ramp?". The man answers "All these other children are waiting to use the stairs. When I get through shoveling them off, then I will clear the ramp for you." The child in the wheelchair responds "But if you shovel the ramp, we can all get in!" The caption reads "Clearing a path for people with special needs clears the path for everyone!"")
+
+Photo Credit: Michael F. Giangreco and Kevin Ruelle.
+
+## Adjustable car seats
+
+Do you use the features in your car to adjust the height, angle, and distance from the steering wheel?
+
+What if you couldn't do that? How comfortable would you be driving? how safe would you be?
+
+## Universal Design for Learning in Higher education
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VwA8cQ2xA9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Where did UDL come from?
+
+### Learner Variability
+

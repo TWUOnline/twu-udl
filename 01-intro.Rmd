@@ -1,2 +1,98 @@
-# Introduction 
+# Universal Design for Learning: The Why, What and Where 
 
+Presenters:   
+- Moira Fricke, M.A., Trinity Western University  
+- Ruby L. Owiny, Ph.D., Trinity International University   
+
+## Poll 
+
+1. How much do you know about UDL?
+    - A little
+    - A lot
+    - None
+2. How much have you incorporated UDL principles into the design of your courses?
+    - A little
+    - A lot
+    - None
+3. Do you agree or disagree with the following quote?
+> “A mind is a fire to be kindled, not a vessel to be filled.  If a child (student) can’t learn the way we teach, maybe we should teach the way they can learn”. ~ Ignacio ‘Nacho’ Estrada
+
+## Why should we care about UDL?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FE1CLS7i3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## TWU Context
+
+| Age of Undergrad Students | Number |
+| :---: | :---: |
+| Under 18 | 86 |
+| 18-24 | 2023 |
+| 25+ | 337 |
+
+| Percentage of Indigenous Students | Percent |
+| :---: | :---: |
+| Undergrad | <1% |
+| Graduate | <1% |
+
+| Percentage of International Students | Percent |
+| :---: | :---: |
+| Undergrad | 45% |
+| Graduate | 75% |
+
+```{block, type='wp'}
+#### Breakthrough Room Questions
+1. What concerns do you have for your students?  
+2. What challenges do your students face (e.g., disability, single-parents, working a lot, etc.)? 
+
+```
+
+## Session Objectives
+
+As a result of this presentation, participants will be able to: 
+- Define UDL  
+- Describe the characteristics of UDL  
+- Explain the research supporting the implementation of UDL  
+- Consider the UDL framework when planning & implementing instruction  
+
+## What is UDL?
+
+Since 1984, [CAST](https://www.cast.org/) has sought to explore how to help learners across ages and settings to achieve high standards. 
+
+UDL was founded on that effort.
+
+Continued growth: Rising to Equity Initiative  
+
+![CAST Overview](assets/cast.png "One page overview of CAST. There is a Venn diagram of three overlapping circles. The top circle reads 'Design and Development'. The bottom left circle reads 'Applied research'. The bottom right circle reads 'Professional learning'. Text follows on the page.")
+
+```{block, type='reflect'}
+## Image Contents
+
+### Learn with us. Research with us. Change the world with us.{-} 
+> Universal Design for Learning is ont of the few big and truly transformative ideas to emerge in education over the past two decades. ~Martha L. Minow, Former Harvard Law School dean and author of *Just Schools: Pursuing Equality in Societies of Difference
+
+Partners include:
+- PreK-12 stakeholders  
+- Higher education  
+- workforce  
+- Tech and publishing industries  
+- Government agencies  
+- Nonprofits   
+- Foundations and donors  
+- Advocacy Organizations  
+
+#### Our Core Lever of Change {-}
+We pioneered Universal Design for Learning (UDL), a research-based framework that guides educator and others as they provide rich instructional supports, reduce unnecessary barriers to learning, and help all individuals become expert learners.
+
+#### Applied Research {-}
+CAST investigates solutions to the most critical questions across preK-12, higher ed, and workforce, including questions related to equity, access, and outcomes.
+
+#### Design and Development {-}
+Building on an award winning history, CAST co-designs transformative solutions, improvement strategies, and tools for learning.
+
+#### Building Knowledge, Skills, and Community {-}
+CAST offers professional learning convenings, technical assistance, practical resources, and online platforms that support UDL implementation.
+
+Website: [cast.org](https://cast.org)
+Professional Learning Opportunities: [castpl.org](https://castpl.org/)
+Books and Media: 
+```

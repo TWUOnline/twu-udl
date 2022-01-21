@@ -21,9 +21,9 @@ The *Faculty Professional Learning* committee will be leading several profession
 
 Use the table of contents on the left side of this page to navigate to each session for resources.
 
-| Dates|
-|---|
-|Thursday, January 20 |
-| Thursday, February 10 |
-| Tuesday, March 1 |
-| Thursday, March 10 |
+| Dates| Topic |
+|:---:| :---  |
+|Thursday, January 20 | UDL: What is it, where did it come from, why should we care? |
+| Thursday, February 10 | UDL: Unpacking the Principles, Discovering the Joy |
+| Tuesday, March 1 | How UDL Can Contribute to Faculty Flourishing  |
+| Thursday, March 10 | UDL and Faith Integration |

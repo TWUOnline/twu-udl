@@ -133,7 +133,7 @@ What if you couldn't do that? How comfortable would you be driving? how safe wou
 
 ### Learner Variability
 
-![fMRI Brain Activity Patterns](assets/fmri.png)
+![fMRI Brain Activity Patterns](assets/fMRI.png)
 
 - Three different fMRI brain activity patterns showing different people performing the same finger-tapping task.
 - Colour represents levels of brain activity during performance
@@ -155,4 +155,3 @@ The UDL framework provides instructors with tools to make sure all three network
 
  ![Jagged profile of learner characteristics](assets/jagged.png "Graphic shows that individual students embody characteristics that vary across facotrs. On some factors, a learner may be below 'average' and on others they may be above 'average' indicating that there is no 'average learner'.")
 
- 

@@ -142,3 +142,17 @@ What if you couldn't do that? How comfortable would you be driving? how safe wou
     - Yellow = extremely high activity
 
 ### Brain Networks
+
+- two types of brain research form the basis
+    - `learner variability` - no two people learn in exactly the same way
+    - `brain networks` - three different networks in our brains, each of which need to be engaged for high-quality learning
+
+The UDL framework provides instructors with tools to make sure all three networks are engaged with all learners. 
+
+### UDL Premise
+
+ To provide equitable opportunities to reach high standards across a variety of students.
+
+ ![Jagged profile of learner characteristics](assets/jagged.png "Graphic shows that individual students embody characteristics that vary across facotrs. On some factors, a learner may be below 'average' and on others they may be above 'average' indicating that there is no 'average learner'.")
+
+ 

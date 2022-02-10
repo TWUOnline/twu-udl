@@ -60,7 +60,7 @@ There is some sort of `trigger` that causes you to `explore` the possibility of 
 
 ## Moira's Experience {-}
 
-> As a new TWU instructor, I will share my humble attempts to incorporate some UDL principles into my 3rd and 4th year Education courses…​ My sincere hope is this may inspire you to look at your own courses and see where they can bloom…​
+> As a new TWU instructor, I will share my humble attempts to incorporate some UDL principles into my 3rd and 4th year Education courses. My sincere hope is this may inspire you to look at your own courses and see where they can bloom.
 
 ### The Four Curricular Pillars of UDL {-}
 
@@ -73,6 +73,11 @@ There is some sort of `trigger` that causes you to `explore` the possibility of 
 ### UDL Learning Guidelines {-}
 
 ![UDL Learning Guidelines](assets/guidelines.png)
+
+```{block, type='reflect'}
+#### *Mea culpa*
+We do realize that the images above are not accessible. It is not good to include a large amount of text in an image because screen-readers will not be able to render it. Additionally, the text on these screenshots is far too small. 
+```
 
 ### Why Care? {-}
 Affective dimensions of learning...

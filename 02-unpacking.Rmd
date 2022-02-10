@@ -37,7 +37,7 @@ If you have ever renovated a house, you know that there are some steps you go th
 |:---:|:---:|
 | Trigger  | Design Well|
 |Plan | Figure out the logistics |
-| Cost | Be realistic|
+| Cost/Reward | Be realistic|
 
 > Great Design is rarely seen.
 

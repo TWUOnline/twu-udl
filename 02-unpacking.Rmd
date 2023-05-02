@@ -79,7 +79,7 @@ There is some sort of `trigger` that causes you to `explore` the possibility of 
 We do realize that the images above are not accessible. It is not good to include a large amount of text in an image because screen-readers will not be able to render it. Additionally, the text on these screenshots is far too small. 
 ```
 
-### Why Care? {-}
+### Why Care?  {-}
 Affective dimensions of learning...
 
 - Recruit student interest
